@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arthur Porto / Academic Research"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Arthur Porto"
-description              : &description "Evolutionary biologist"
+description              : &description "Evolutionary biology, Genetics, Machine-learning"
 url                      : "https://agporto.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "agporto/agporto.github.io"

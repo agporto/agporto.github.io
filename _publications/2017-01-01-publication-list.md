@@ -3,7 +3,7 @@ title: "Publication list"
 collection: publications
 permalink: /publication/2017-01-01-publication-list
 excerpt:
-date:
+date:2018-01-01
 venue:
 paperurl:
 citation:

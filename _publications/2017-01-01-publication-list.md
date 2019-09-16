@@ -1,3 +1,14 @@
+---
+title: "Publication list"
+collection: publications
+permalink: /publication/2017-01-01-publication-list
+excerpt:
+date:
+venue:
+paperurl:
+citation:
+---
+
 `2018`Porto, A. 2018. Variational Approaches to Evolvability: Short-and Long-Term Perspectives. Evolutionary Developmental Biology: A Reference Guide, Springer, 1-14.
 
 `2018`Porto, A., J. M. Peralta, N. B. Blackburn and J. Blangero. 2018. Reliability of genomic predictions of complex human phenotypes. BMC proceedings vol. 12(9), p. 51.[[pdf]](https://bmcproc.biomedcentral.com/articles/10.1186/s12919-018-0138-5)

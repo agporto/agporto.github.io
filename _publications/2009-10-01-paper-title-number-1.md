@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-09-12-ml-morph
+excerpt: 'Morphometrics has become an indispensable component of the statistical analysis of size and shape variation in biological structures. Morphometric data has traditionally been gathered through low-throughput manual landmark annotation, which represents a significant bottleneck for morphometric-based phenomics. Here we propose a machine-learning-based high-throughput pipeline to collect high-dimensional morphometric data in images of semi rigid biological structures.'
+date: 2019-09-12
+venue: 'bioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/769075v1'
+citation: 'Porto, A. and K.J.Voje. (2019). &quot;ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images.&quot; <i>bioRxiv</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Morphometrics has become an indispensable component of the statistical analysis of size and shape variation in biological structures. Morphometric data has traditionally been gathered through low-throughput manual landmark annotation, which represents a significant bottleneck for morphometric-based phenomics. Here we propose a machine-learning-based high-throughput pipeline to collect high-dimensional morphometric data in images of semi rigid biological structures.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[[pdf]](https://www.biorxiv.org/content/10.1101/769075v1)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Porto, A. and K.J.Voje. (2019). "ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images." <i>bioRxiv</i>. 1(1).

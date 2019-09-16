@@ -13,63 +13,28 @@ I am an evolutionary biologist at the Centre for Ecological and Evolutionary Syn
 
 Machine-learning-based Phenomics
 ------
-![](/images/segmented_colony.png)
+
 Large-scale phenotyping (phenomics) is a budding discipline in evolutionary and paleobiology that is likely to bring about a revolution comparable to the one that genomics brought to biology two decades ago. Together with collaborators, I have recently (2019) founded the Consortium for Automated Image Analyses of Bryozoan Colonies (BryoIMDB).  This consortium is creating a central database of hundreds of thousands bryozoan images for the purposes of machine-learning-toolkit development.  Based on this database, I am developing and implementing cutting-edge machine-learning tools to extract high-dimensional high-throughput phenotypic and quantitative genetic data from both fossil and extant lineages. These open-access tools are available on my github account (www.github.com/agporto/). Other ongoing machine -learning projects involve flies and fishes. Check the Software tab for video demonstrations of the bryozoan work.
 
-_Collaborators_: Dr Kjetil Voje, BryoIMDB Consortium, Dr David Houle.
+_Collaborators_: [Dr Kjetil Voje](https://kjetillysnevoje.wordpress.com/), BryoIMDB Consortium, [Dr David Houle](https://www.bio.fsu.edu/~dhoule/).
+
+![](/images/segmented_colony.png)
 
 Developmental constraints and the Paradox of Stasis
 ------
-![](/images/stasis.png)
+
 Evolutionary biologists have long sought to understand the processes that have shaped the morphological diversity of living organisms. Studies in contemporary populations often observe strong selective episodes which, when combined with the abundant genetic variation typically observed for individual traits, should lead to substantial and rapid diversification. The fossil record, on the other hand, shows substantive evidence of stasis, defined as long periods of little to no net morphological change. Together, these contrasting observations point to a critical gap in our understanding of the evolutionary processes taking place on ecological compared to geological timescales. This critical gap, termed “the paradox of stasis”, is one of the most neglected theoretical problems in  evolutionary biology. My research on this topic uses combination of novel empirical and methodological approaches to disentangle the role of evolutionary processes and developmental constraints in shaping evolutionary change in complex morphological traits. Key aspects of the project include the use of a unique marine invertebrate model system (bryozoans) in which the shape of the adaptive landscape of phenotypic traits can be inferred directly from fossil specimens, due to the preservation of reproductive structures.
 
-_Collaborators_: Dr Kjetil Voje, Dr Lee Hsiang Liow, Dr Mark Grabowski, Dr Masahito Tsuboi
+_Collaborators_: [Dr Kjetil Voje](https://kjetillysnevoje.wordpress.com/), [Dr Lee Hsiang Liow] (https://folk.uio.no/leehl/), [Dr Mark Grabowski](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/natural-sciences-and-psychology/mark-grabowski), Dr Masahito Tsuboi
+
+![](/images/stasis.png)
 
 Genetic Architecture and the Evolution of Modularity
 ------
-![](/images/possum_qtl.png)
+
 My research in this area focuses on the opportunities brought out by the increased availability of large genomic datasets and asks questions at the intersection of genetics and evolution.  How does natural selection reshape the genetic architecture of complex traits? What is the speed, and through which mechanisms are such changes achieved? To what extent does the genetic architecture of traits influence macroevolutionary diversification patterns? To answer these questions, I use both empirical and theoretical approaches, using both the skull and blood lipids of mammals as model systems to tackle such questions.
 
-_Collaborators_: Dr Gabriel Marroig, Dr James Cheverud, Dr John VandeBerg
+_Collaborators_: Dr Gabriel Marroig, [Dr James Cheverud](https://www.luc.edu/biology/aboutus/facultyresearch/jamesmcheverud/cheverudlabpage/#d.en.246578), [Dr John VandeBerg](https://www.utrgv.edu/som/stdoi/our-people/faculty-listing/faculty-jvandeberg/index.htm)
 
+![](/images/possum_qtl.png)
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

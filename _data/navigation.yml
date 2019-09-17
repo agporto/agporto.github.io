@@ -9,10 +9,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Software"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Contact"
     url: /year-archive/
     
   - title: "CV"

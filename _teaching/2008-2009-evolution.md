@@ -8,7 +8,7 @@ date: 2008-08-01
 location: "Sao Paulo, Brazil"
 ---
 
-Evolution course for biology undergraduate students
+Evolution course for biology undergraduate students (2008-2009)
 
 Heading 1
 ======

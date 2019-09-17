@@ -8,7 +8,7 @@ date: 2009-03-01
 location: "Sao Paulo, Brazil"
 ---
 
-Genetics for Nursing Practitioners course for nursing undergraduate students
+Genetics for Nursing Practitioners course for nursing undergraduate students (2009)
 
 Heading 1
 ======

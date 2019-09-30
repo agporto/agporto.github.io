@@ -14,7 +14,7 @@ Machine-learning-based Phenomics
 ------
 Large-scale phenotyping (phenomics) is a budding discipline in evolutionary and paleobiology that is likely to bring about a revolution comparable to the one that genomics brought to biology two decades ago. Together with collaborators, I have recently (2019) founded the Consortium for Automated Image Analyses of Bryozoan Colonies (BryoIMDB).  This consortium is creating a central database of hundreds of thousands bryozoan images for the purposes of machine-learning-toolkit development.  Based on this database, I am developing and implementing cutting-edge machine-learning tools to extract high-dimensional high-throughput phenotypic and quantitative genetic data from both fossil and extant lineages. These open-access tools are available on my [github account](https://www.github.com/agporto/). Other ongoing machine -learning projects involve flies and fishes. Check the Software tab for video demonstrations of the bryozoan work.
 
-_Collaborators_: [Dr Kjetil Voje](https://kjetillysnevoje.wordpress.com/), BryoIMDB Consortium, [Dr David Houle](https://www.bio.fsu.edu/~dhoule/).
+_Collaborators_: [Dr Kjetil Voje](https://kjetillysnevoje.wordpress.com/), [Dr Lee Hsiang Liow](https://folk.uio.no/leehl/), BryoIMDB Consortium, [Dr David Houle](https://www.bio.fsu.edu/~dhoule/).
 
 ![](/images/segmented_colony.png)
 

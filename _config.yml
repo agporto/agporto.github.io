@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Arthur Porto"
+name                     : &name "Porto Lab"
 description              : &description "Evolutionary biology, Genetics, Machine-learning"
 url                      : "https://agporto.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arthur Porto"
+  name             : "Porto Lab"
   avatar           : "profile.png"
   bio              : "Evolutionary biology, Genetics, Machine-learning"
-  location         : "Oslo, Norway"
+  location         : "Baton Rouge, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=arthur+porto"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=arthur+porto"
   googlescholar    : "https://scholar.google.com/citations?user=RlmpcO8AAAAJ&hl=en"
   email            : "agporto@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Arthur_Porto" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/Arthur_Porto" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

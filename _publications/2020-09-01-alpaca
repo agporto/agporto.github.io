@@ -8,13 +8,5 @@ venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.09.18.303891v1.full.pdf+html'
 citation: ''
 ---
-Landmark-based geometric morphometrics has emerged as an essential discipline for the quantitative analysis of size and shape in ecology and evolution. With the ever-increasing density of digitized landmarks, the possible development of a fully automated method of landmark placement has attracted considerable attention. Despite the recent progress in image registration techniques, which could provide a pathway to automation, three-dimensional morphometric data is still mainly gathered by trained experts. For the most part, the large infrastructure requirements necessary to perform image-based registration, together with its system-specificity and its overall speed have prevented wide dissemination.
-
-Here, we propose and implement a general and lightweight point cloud-based approach to automatically collect highdimensional landmark data in 3D surfaces (Automated Landmarking through Point cloud Alignment and Correspondence Analysis). Our framework possesses several advantages compared with image-based approaches. First, it presents comparable landmarking accuracy, despite relying on a single, random reference specimen and much sparser sampling of the structure’s surface. Second, it is performant such that it can be efficiently run on consumer-grade personal computers. Finally, it is general and can be applied to any biological structure of interest, regardless of whether anatomical atlases are available.
-
-Our validation procedures indicate that the method is capable of recovering multivariate patterns of morphological variation that are largely indistinguishable from those obtained by manual digitization, indicating that the use of an automated landmarking approach should not result in different conclusions regarding the nature of multivariate patterns of morphological variation.
-
-The proposed point cloud-based approach has the potential to increase the scale and reproducibility of morphometrics research. To allow ALPACA to be used out-of-the-box by users with no prior programming experience, we implemented it as a module as part of the SlicerMorph project. SlicerMorph is an extension that enables geometric morphometrics data collection and 3D specimen analysis within the open-source 3D Slicer biomedical visualization ecosystem. We expect that convenient access to this platform will make ALPACA broadly applicable within ecology and evolution.
-
 [[pdf]](https://www.biorxiv.org/content/10.1101/2020.09.18.303891v1.full.pdf+html)
 

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Join us! Open positions for 2021"
+excerpt: "Join us in 2021"
 author_profile: true
 redirect_from: 
   - /about/

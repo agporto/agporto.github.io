@@ -2,13 +2,11 @@
 title: "Modularity: Genes, Development, and Evolution"
 collection: publications
 permalink: /publication/2016-01-01-modularity-genes
-excerpt: 'Modularity has emerged as a central concept for evolutionary biology, thereby providing the field with a theory of organismal structure and variation. This theory has reframed long-standing questions and serves as a unified conceptual framework for genetics, developmental biology, and multivariate evolution. Research programs in systems biology and quantitative genetics are bridging the gap between these fields. Although this synthesis is ongoing, some major themes have emerged, and empirical evidence for modularity has become abundant. In this review, we look at modularity from a historical perspective, highlighting its meaning at different levels of biological organization and the different methods that can be used to detect it. We then explore the relationship between quantitative genetic approaches to modularity and developmental genetic studies. We conclude by investigating the dynamic relationship between modularity and the adaptive landscape and how this relationship potentially shapes evolution and can help bridge the gap between micro- and macroevolution.'
+excerpt: ''
 date: 2016-01-01
 venue: 'Annual Review of Ecology, Evolution and Systematics'
 paperurl: 'https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409'
-citation: 'Melo, D.*, A. Porto *, J.M. Cheverud, and G. Marroig. 2016. Modularity: genes, development and evolution. Annual Review of Ecology, Evolution, and Systematics v.47 (1). '
+citation: ''
 ---
-Modularity has emerged as a central concept for evolutionary biology, thereby providing the field with a theory of organismal structure and variation. This theory has reframed long-standing questions and serves as a unified conceptual framework for genetics, developmental biology, and multivariate evolution. Research programs in systems biology and quantitative genetics are bridging the gap between these fields. Although this synthesis is ongoing, some major themes have emerged, and empirical evidence for modularity has become abundant. In this review, we look at modularity from a historical perspective, highlighting its meaning at different levels of biological organization and the different methods that can be used to detect it. We then explore the relationship between quantitative genetic approaches to modularity and developmental genetic studies. We conclude by investigating the dynamic relationship between modularity and the adaptive landscape and how this relationship potentially shapes evolution and can help bridge the gap between micro- and macroevolution.
-[[pdf]](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
 
-Recommended citation:Melo, D.*, A. Porto *, J.M. Cheverud, and G. Marroig. 2016. Modularity: genes, development and evolution. Annual Review of Ecology, Evolution, and Systematics v.47 (1).
+[[pdf]](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)

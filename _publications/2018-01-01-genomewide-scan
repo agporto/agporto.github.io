@@ -2,13 +2,11 @@
 title: "Genome-wide linkage scan for loci influencing plasma triglyceride levels"
 collection: publications
 permalink: /publication/2018-01-01-genomewide-scan
-excerpt: 'We conducted a genome-wide linkage scan to detect loci that influence the levels of fasting triglycerides in plasma. Fasting triglyceride levels were available at 4 time points (visits), 2 pre- and 2 post-fenofibrate intervention. Multipoint identity-by-descent (MIBD) matrices were derived from genotypes using IBDLD. Variance-component linkage analyses were then conducted using SOLAR (Sequential Oligogenic Linkage Analysis Routines). We found evidence of linkage (logarithm of odds [LOD] ≥3) at 5 chromosomal regions with triglyceride levels in plasma. The highest LOD scores were observed for linkage to the estimated genetic value (additive genetic component) of the log-normalized triglyceride levels in plasma. Our results suggest that a chromosome 10 locus at 37 cM (LODpre = 3.01, LODpost = 3.72) influences fasting triglyceride levels in plasma regardless of the fenofibrate intervention, and that loci in chromosomes 1 at 170 cM and 4 at 24 cM ceases to affect the triglyceride levels when fenofibrate is present, while the regions in chromosomes 6 at 136 to 162 cM and 11 at 39 to 40 cM appear to influence triglyceride levels in response to fenofibrate.'
+excerpt: ''
 date: 2018-01-01
 venue: 'BMC Proceedings'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6157192/'
-citation: 'Peralta,J.M., N. B. Blackburn, A. Porto, J. Blangero, and J. Charlesworth. 2018. Genome-wide linkage scan for loci influencing plasma triglyceride levels. BMC proceedings vol. 12(9), p. 52.'
+citation: ''
 ---
-We conducted a genome-wide linkage scan to detect loci that influence the levels of fasting triglycerides in plasma. Fasting triglyceride levels were available at 4 time points (visits), 2 pre- and 2 post-fenofibrate intervention. Multipoint identity-by-descent (MIBD) matrices were derived from genotypes using IBDLD. Variance-component linkage analyses were then conducted using SOLAR (Sequential Oligogenic Linkage Analysis Routines). We found evidence of linkage (logarithm of odds [LOD] ≥3) at 5 chromosomal regions with triglyceride levels in plasma. The highest LOD scores were observed for linkage to the estimated genetic value (additive genetic component) of the log-normalized triglyceride levels in plasma. Our results suggest that a chromosome 10 locus at 37 cM (LODpre = 3.01, LODpost = 3.72) influences fasting triglyceride levels in plasma regardless of the fenofibrate intervention, and that loci in chromosomes 1 at 170 cM and 4 at 24 cM ceases to affect the triglyceride levels when fenofibrate is present, while the regions in chromosomes 6 at 136 to 162 cM and 11 at 39 to 40 cM appear to influence triglyceride levels in response to fenofibrate.
 [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6157192/)
 
-Recommended citation: Peralta,J.M., N. B. Blackburn, A. Porto, J. Blangero, and J. Charlesworth. 2018. Genome-wide linkage scan for loci influencing plasma triglyceride levels. BMC proceedings vol. 12(9), p. 52.

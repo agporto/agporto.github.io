@@ -11,29 +11,18 @@ redirect_from:
 
 Visiting address: 
 ------
-Kristine Bonnevies Hus Room 3302 A
-
-Blindernveien 31, Oslo, Norway
+Coming soon (January 2021)
 
 Email
 ------
-agposto[at]uio.no 
+agporto[at]gmail.com 
 
 Phone:
 ------ 
-+47 459 16 589 
+Coming soon (January 2021)
 
 Mailing address: 
 ------
-Centre for Evolutionary and Ecological Synthesis 
+Coming soon (January 2021)
 
-Department of Biosciences 
-
-University of Oslo 
-
-PO BOX 1066, Blindern 
-
-0316 Oslo 
-
-NORWAY 
 

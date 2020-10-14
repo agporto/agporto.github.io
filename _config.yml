@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Porto Lab"
+name                     : &name "PORTO LAB"
 description              : &description "Evolutionary biology, Genetics, Machine-learning"
 url                      : "https://agporto.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9210-8750?lang=en"
+  orcid            : #"https://orcid.org/0000-0002-9210-8750?lang=en"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ArtPorto"
+  twitter          : #"@ArtPorto"
   vine             :
   weibo            :
   xing             :

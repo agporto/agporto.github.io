@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Join us in 2021!
+------
 The Porto Lab is searching for two PhD students and one postdoc for Fall 2021. PhD students will have guaranteed support for 6 years and will have the opportunity to collaborate with biologists, paleontologists, statisticians and computer scientists. Postdocs will be supported for 2 years, with the possibility of renewal pending the availability of funds. We will consider applicants from various disciplines, including biology, paleontology, statistics, computer science, and related fields.  Applicants from underrepresented groups are especially encouraged to apply.
 
 Prospective students/postdocs should contact me by email (agporto[at]gmail.com) to discuss the possibility. 
